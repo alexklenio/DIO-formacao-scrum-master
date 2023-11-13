@@ -1,4 +1,7 @@
-# **DESAFIO DE PROJETO CASE SONY | CRUM MASTER DIO** 
+<img align="right" src="https://raw.githubusercontent.com/alexklenio/formacao-scrum-master/main/Imagens/04JUL22_DIOPLAY%204.png" width=""/>
+
+
+# **DESAFIO DE PROJETO CASE SONY** 
 
 O desafio pedia que escolhesse um case real dos que foram apresentados e após análise responder as perguntas abaixo:
 
