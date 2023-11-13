@@ -1,4 +1,4 @@
-# **FORMAÇÃO SCRUM MASTER | DIO**  
+# **FORMAÇÃO SCRUM MASTER CERTIFICATION | DIO**  
 <img src="https://hermes.dio.me/tracks/ce836317-7430-419d-850e-9d113e607b2e.png" width="200"/>
 
 
