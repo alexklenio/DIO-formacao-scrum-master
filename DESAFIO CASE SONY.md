@@ -25,7 +25,7 @@ Terceiro, a abordagem ágil promove o trabalho em equipe e a colaboração. Isso
 
 O Scrum foi utilizado porque é um framework que se adapta bem a projetos de alta complexidade e risco. O Scrum é baseado em ciclos curtos de desenvolvimento, chamados de sprints, que permitem que a equipe de desenvolvimento entregue valor ao cliente de forma rápida e frequente.
 
-O Scrum também é uma metodologia flexível e adaptável, o que é importante para projetos que estão sujeitos a mudanças frequentes. O Scrum fornece ferramentas e processos que ajudam a equipe de desenvolvimento a responder rapidamente a essas mudanças.
+O Scrum também é um framework flexível e adaptável, o que é importante para projetos que estão sujeitos a mudanças frequentes. O Scrum fornece ferramentas e processos que ajudam a equipe de desenvolvimento a responder rapidamente a essas mudanças.
 
 ### 3. O resultado final era inovador? Por quê?
 
@@ -37,7 +37,7 @@ O projeto foi inovador por vários motivos. Primeiro, ele desenvolveu uma nova a
 
 Eu faria algumas coisas diferentes no projeto. Primeiro, eu investiria mais tempo na fase de planejamento. Isso ajudaria a garantir que a equipe de desenvolvimento tivesse uma compreensão clara dos requisitos do projeto e dos riscos envolvidos.
 
-Segundo, eu forneceria mais treinamento à equipe de desenvolvimento sobre a metodologia Scrum. Isso ajudaria a garantir que a equipe entendesse os princípios e práticas do Scrum e pudesse usá-los com eficácia.
+Segundo, eu forneceria mais treinamento à equipe de desenvolvimento sobre 0 framework Scrum. Isso ajudaria a garantir que a equipe entendesse os princípios e práticas do Scrum e pudesse usá-los com eficácia.
 
 Terceiro, eu estabeleceria um processo de comunicação formal entre a equipe de desenvolvimento e os stakeholders. Isso ajudaria a garantir que as necessidades dos stakeholders fossem atendidas e que o projeto permanecesse alinhado com os objetivos de negócios.
 
