@@ -1,4 +1,4 @@
-# **FORMAÇÃO SCRUM TYPESCRIPT | DIO** 
+# **FORMAÇÃO SCRUM MASTER | DIO** 
 
 Detalhes da formação
 
