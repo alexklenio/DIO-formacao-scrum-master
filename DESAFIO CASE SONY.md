@@ -1,5 +1,4 @@
-<img align="right" src="https://raw.githubusercontent.com/alexklenio/formacao-scrum-master/main/Imagens/04JUL22_DIOPLAY%204.png" width=""/>
-
+<img align="right" src="https://raw.githubusercontent.com/alexklenio/formacao-scrum-master/main/Imagens/04JUL22_DIOPLAY%204.png" width=""/>    ---
 
 # **DESAFIO DE PROJETO CASE SONY** 
 
