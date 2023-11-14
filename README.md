@@ -1,4 +1,4 @@
-<img align="right" src="https://raw.githubusercontent.com/alexklenio/formacao-scrum-master/main/Imagens/04JUL22_DIOPLAY%204.png" width=""/>
+<img align="right" src="https://raw.githubusercontent.com/alexklenio/formacao-scrum-master/main/Imagens/04JUL22_DIOPLAY%204.png" width=""/>   ---
 
 <img align="right" src="https://hermes.dio.me/courses/badge/ad17518a-991f-44af-87fa-33b1bf4fe677.png" width="200"/>
 
